@@ -2,9 +2,9 @@
   description = "npiperelay.exe for Use in NixOS-WSL on WSL2";
 
   inputs = {
-    nixpkgs.url = "github:NixOS/nixpkgs/master";
+    nixpkgs.url = "github:NixOS/nixpkgs/nixos-25.11";
     npiperelay = {
-      url = "github:albertony/npiperelay/fork";
+      url = "github:albertony/npiperelay/v1.9.2";
       flake = false;
     };
   };

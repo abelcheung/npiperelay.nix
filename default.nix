@@ -24,7 +24,7 @@
     "-s" # Omit the symbol table and debug information
     "-w" # Omit the DWARF symbol table
   ]
-  ++ inject "version" "1.4.0-albertony"
+  ++ inject "version" "1.9.2-albertony"
   ++ inject "commit" npiperelay.shortRev
   ++ inject "date" (builtins.substring 0 8 npiperelay.lastModifiedDate)
   ++ inject "builtBy" "nix-build"
