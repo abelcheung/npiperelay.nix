@@ -2,16 +2,16 @@
   "nodes": {
     "nixpkgs": {
       "locked": {
-        "lastModified": 1699451767,
-        "narHash": "sha256-ns2cYb7gG9GMVRF+EBi6Z/8Gs5Fw8nKxMFRDH9/9I8c=",
+        "lastModified": 1768028080,
+        "narHash": "sha256-50aDK+8eLvsLK39TzQhKNq50/HcXyP4hyxOYoPoVxjo=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "d9cc44b51e9b333fd67e2c77eda010cc6c9552cc",
+        "rev": "d03088749a110d52a4739348f39a63f84bb0be14",
         "type": "github"
       },
       "original": {
         "owner": "NixOS",
-        "ref": "master",
+        "ref": "nixos-25.11",
         "repo": "nixpkgs",
         "type": "github"
       }
@@ -19,16 +19,16 @@
     "npiperelay": {
       "flake": false,
       "locked": {
-        "lastModified": 1697451405,
-        "narHash": "sha256-a8dGy1jfJavE7SwYaZFw1/VtemwhR3KEQ19r0SjAf6k=",
+        "lastModified": 1765203052,
+        "narHash": "sha256-48sTrqhQgXG0OWLUXDk11jfm/QUmYoZ2vK9tuVoy7Rs=",
         "owner": "albertony",
         "repo": "npiperelay",
-        "rev": "b8c8862a9c2f13f60c47c33244ac276cdc739e7e",
+        "rev": "02567b76f930b6476f95bf66d9e0a6354c340868",
         "type": "github"
       },
       "original": {
         "owner": "albertony",
-        "ref": "fork",
+        "ref": "v1.9.2",
         "repo": "npiperelay",
         "type": "github"
       }
